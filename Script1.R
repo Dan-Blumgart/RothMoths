@@ -1,1 +1,2 @@
-add stuff
+traps <- read.csv("traps.csv")
+summary(traps)
