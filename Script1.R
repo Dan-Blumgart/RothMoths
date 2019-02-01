@@ -1,4 +1,4 @@
 traps <- read.csv("traps.csv")
-summary(nothing)
+summary(traps)
 library(dplyr)
 glimpse(traps)
